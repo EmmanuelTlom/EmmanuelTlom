@@ -1,9 +1,9 @@
 ### Hi there, I'm Emmanuel Nwabuodafi, i am a Front End Web Developer
 
-I am a graduate, skilled in HTML, CSS, JS, Bootstrap, React, and several other web development technologies. I am currently learning React. I am a passionate and self-motivated individual, enthusiastically keen to learn and explore. I am Open up to opportunities and new learning experiences as i seek to keep developing my knowledge base and experience.
+I am a Emmanuel Nwabuodafi a front end developer learning full stack development with Node Js, i write in HTML, CSS, JS, Bootstrap, React, Vue, Nuxt Next and several other web development technologies. I am a passionate and self-motivated individual, enthusiastically keen to learn and explore. I am Open up to opportunities and new learning experiences as i seek to keep developing my knowledge base and experience.
 
-- 🌱 I’m currently learning and getting better with React 🤣
-- 👯 I’m looking to become the best that i can be and put in the best work for any company and anyone i work with
+- 🌱 I love react but i am a Vue guy 🤣
+- 👯 I’ve tons of experience working with REST APIs and i give my best for any company and anyone i work with
 - 🥅 Second half of 2021 Goals: Build more projects
 - ⚡ Fun fact: I love to Read, Learn and Play Games
 
